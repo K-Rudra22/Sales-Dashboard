@@ -19,9 +19,11 @@ This project delivers a dynamic Power BI dashboard that:
 - Actionable insights and suggested actions  
 
 ## Screenshots  
-Add screenshots (PNG/JPG) here after uploading them to your repo.  
-**Example:**  
-![Dashboard Overview](screenshots/dashboard-overview.png)
+### 🔹 Sales Insights Dashboard
+![Sales Insights Dashboard](Screenshots/Sales-Insights-dashboard.png)
+
+### 🔹 15-Day Sales Forecast
+![Sales Forecasting](Screenshots/sales-forecasting.png)
 
 ## How to Use
 1. Download `sales-dashboard.pbix` from this repository.  
