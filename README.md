@@ -50,10 +50,10 @@ This project delivers a dynamic Power BI dashboard that:
 ├── LICENSE
 └── README.md
 <pre> 
-  ## Project Structure ``` 
+  ## Project Structure 
   ├── screenshots/ 
   ├── data/ 
   ├── Sales dashboard.pbix 
   ├── LICENSE 
-  └── README.md ``` 
+  └── README.md 
 </pre>
