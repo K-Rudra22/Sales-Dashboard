@@ -34,7 +34,7 @@ This project delivers a dynamic Power BI dashboard that:
 
 ## Data Source
 - All data is synthetic and for demonstration only.  
-- No actual business/customer data is included.  
+- No actual business/customer data is included.
 
 ## Key Insights
 - Time series forecasting enables confident short-term planning.  
@@ -43,3 +43,8 @@ This project delivers a dynamic Power BI dashboard that:
 - Actionable recommendations are generated for continuous improvement.  
 
 ##  Project Structure
+├── Screenshots/ # Dashboard screenshots
+├── data/ # Raw dataset (CSV)
+├── Sales dashboard.pbix # Power BI file
+├── LICENSE
+└── README.md
