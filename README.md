@@ -42,10 +42,11 @@ This project delivers a dynamic Power BI dashboard that:
 - Visualizing KPIs brings clear visibility into sales health and trends.  
 - Regional/product analysis spots growth opportunities and outliers.  
 - Actionable recommendations are generated for continuous improvement.  
-
-##  Project Structure
-'''├── Screenshots/ # Dashboard screenshots
+'''
+## Project Structure
+├── Screenshots/ # Dashboard screenshots
 ├── data/ # Raw dataset (CSV)
 ├── Sales dashboard.pbix # Power BI file
 ├── LICENSE
-└── README.md'''
+└── README.md
+'''
